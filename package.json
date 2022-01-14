@@ -1,0 +1,23 @@
+{
+  "name": "io.nekonya.tinax.fsm",
+  "version": "7.0.0-preview",
+  "displayName": "TinaX.FSM",
+  "description": "Finite State Machine",
+  "unity": "2020.3",
+  "keywords": [
+    "TinaX",
+    "TinaX Framework",
+    "FSM",
+    "Finite State Machine"
+  ],
+  "author": {
+    "name": "yomunsam",
+    "email": "yomunsam@nekonya.io",
+    "url": "https://yomunchan.moe"
+  },
+  "license":"MIT",
+  "type": "library",
+  "dependencies": {
+    "io.nekonya.tinax.core": "7.0.0-preview"
+  }
+}
